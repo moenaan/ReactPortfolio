@@ -1,0 +1,80 @@
+{
+  "main": {
+    "name":"Mohammed Samod",
+    "description":"I am a junior full-stack developer",
+    "image":"profilepicture.jpg",
+    "bioQuote":"In order to live, you must be willing to die",
+    "bioQuotAuthor": "Unknown",
+    "bio":"I am a junior web developer from Dallas, Texas. I fell in love with coding about a year ago." ,
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "moesamod@gmail.com",
+    "phone": "469-358-7833",
+    "linkedin":"https://www.linkedin.com/in/mohammed-samod-b5499a162/",
+    "github":"https://github.com/moenaan",
+    "resume":"https://docs.google.com/document/d/1zhn6S5ni3ank5q7qwL59wF-S32KoROqnuSabKkaAOR0/edit?usp=sharing"
+  },
+  "resume":{
+    "languages":[
+      {
+        "name":"ReactJs"
+      },
+      {
+        "name":"HTML"
+      },
+      {
+        "name":"CSS"
+      },
+      {
+        "name":"Javascript"
+      },
+      {
+        "name":"JQuery"
+      },
+      {
+        "name":"Node.js"
+      },
+      {
+        "name":"Express.js"
+      },
+      {
+        "name":"Bootstrap"
+      },
+      {
+        "name":"Bootstrap"
+      }
+    ],
+    "databases":[
+      {
+        "name":"Mysql"
+      },
+      {
+        "name":"Mongodb"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Coding Quiz",
+        "image":"quizgame.jpg",
+        "url":"https://moenaan.github.io/QuizGameII/"
+      },
+      {
+        "title":"Healthy Spoon",
+        "image":"healthy Spoon.png",
+        "url":"https://github.com/moenaan/RestaurantMobileApp"
+      },
+      {
+        "title":"Password Generator",
+        "image":"password-generator.jpg",
+        "url":"https://github.com/moenaan/Password-Generator"
+      },
+
+      {
+        "title":"Note Taker",
+        "image":"note-taker.jpg",
+        "url":"https://github.com/moenaan/NoteTaker"
+      }
+    ]
+  }
+}
