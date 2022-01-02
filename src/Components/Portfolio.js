@@ -33,10 +33,10 @@ class Portfolio extends Component {
           <div class="row">
             <div class="column">
               <div class="card">
-                  <img alt="Quiz Game" src="/images/portfolio/quizgame.jpg"></img>
+                  <img alt="Fitness Tracker" src="/images/portfolio/fitnesstracker.jpg"></img>
                   <div class="container">
-                    <a href="https://moenaan.github.io/QuizGameII/">     
-                    <h1> Quiz Game</h1>
+                    <a href="https://moes-workout-planner.herokuapp.com/">     
+                    <h1> Fitness Tracker</h1>
                     <p1>This app helps one understand coding better by asking a few simple questions. </p1>
                     </a>
                   </div>
@@ -44,11 +44,11 @@ class Portfolio extends Component {
               </div>
             <div class="column">
               <div class="card">
-                <img alt="Healthy Spoon" src="/images/portfolio/healthy Spoon.png"></img>
+                <img alt="Dating Roulette" src="/images/portfolio/datingroulette.jpg"></img>
                   <div class="container">
-                  <a href="https://moenaan.github.io/RestaurantMobileApp/">   
-                  <h1> Healthy Spoon</h1>
-                    <p1>Created an app that makes it easier for people to make better and healthier choices when ordering food online.   </p1>
+                  <a href="https://dating-roulette.herokuapp.com/">   
+                  <h1> Dating Roulette</h1>
+                    <p1>There are moments where you may be spending time with your significan other and don't have an idea for a date. Well I've created a date randomizer app that may help your little problem.   </p1>
                     </a>
                   </div>
                 </div>
@@ -80,7 +80,7 @@ class Portfolio extends Component {
               <img alt="Note Taker" src="/images/portfolio/note-taker.jpg"></img>
               <div class="container">
               <h1> Note Taker</h1>
-              <a href="https://github.com/moenaan/NoteTaker">
+              <a href="https://moes-note-taker-app.herokuapp.com/">
               <p>An app to help you remember the important things. Make sure you write it down. </p>
              </a>
             </div>
