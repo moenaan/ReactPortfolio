@@ -37,7 +37,7 @@ class Portfolio extends Component {
                   <div class="container">
                     <a href="https://moes-workout-planner.herokuapp.com/">     
                     <h1> Fitness Tracker</h1>
-                    <p1>This app helps one understand coding better by asking a few simple questions. </p1>
+                    <p1>This app helps one track their fitness goals with ease. </p1>
                     </a>
                   </div>
                 </div>
