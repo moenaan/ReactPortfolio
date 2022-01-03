@@ -44,7 +44,7 @@ class Portfolio extends Component {
               </div>
             <div class="column">
               <div class="card">
-                <img alt="Dating Roulette" src="/images/portfolio/datingroulette.jpg"></img>
+                <img alt="Dating Roulette" src="/images/portfolio/DatingRoulette.jpg"></img>
                   <div class="container">
                   <a href="https://dating-roulette.herokuapp.com/">   
                   <h1> Dating Roulette</h1>
