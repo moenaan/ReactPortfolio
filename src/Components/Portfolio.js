@@ -27,7 +27,7 @@ class Portfolio extends Component {
     return (
       <section id="portfolio">
         <Fade bottom duration={800}>
-        <h2> My Work</h2>
+        <h2> My Applications</h2>
         </Fade>
         <Fade bottom duration={1000}>
           <div class="row">
@@ -48,7 +48,7 @@ class Portfolio extends Component {
                   <div class="container">
                   <a href="https://dating-roulette.herokuapp.com/">   
                   <h1> Dating Roulette</h1>
-                    <p1>There are moments where you may be spending time with your significan other and don't have an idea for a date. Well I've created a date randomizer app that may help your little problem.   </p1>
+                    <p1>There are moments where you may be spending time with your significant other and don't have an idea for a date. Well I've created a date randomizer app that may help your little problem.   </p1>
                     </a>
                   </div>
                 </div>
